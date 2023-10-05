@@ -1,4 +1,4 @@
-### Hi there 👋
+[![wakatime](https://wakatime.com/badge/user/95cf29d5-caf7-4cad-b501-d26b8b977dc9.svg)](https://wakatime.com/@95cf29d5-caf7-4cad-b501-d26b8b977dc9)
 
 <!--
 **yudistirasd/yudistirasd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
