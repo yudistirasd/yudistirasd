@@ -1,3 +1,5 @@
+[![GitHub Streak](https://streak-stats.demolab.com?user=yudistirasd&theme=dracula&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
+
 [![wakatime](https://wakatime.com/badge/user/95cf29d5-caf7-4cad-b501-d26b8b977dc9.svg)](https://wakatime.com/@95cf29d5-caf7-4cad-b501-d26b8b977dc9)
 
 <!--
